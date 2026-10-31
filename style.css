@@ -266,3 +266,21 @@ footer {
         padding: 50px 8%;
     }
 }
+
+/* WHY STUDY COMPUTING SECTION */
+
+.why-computing {
+    background-color: #eaf4fc;
+    padding: 50px 10%;
+    text-align: center;
+}
+
+.why-computing h2 {
+    color: #071b35;
+    margin-bottom: 20px;
+}
+
+.why-computing p {
+    max-width: 850px;
+    margin: 10px auto;
+}
